@@ -1,0 +1,6 @@
+Persons,Smoking,Obesity,Exrcise,Diabetic
+person1,0,1,0,1
+person2,0,0,1,0
+person3,1,0,0,0
+person4,1,1,0,1
+person5,1,1,1,1
